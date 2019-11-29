@@ -294,6 +294,6 @@ public class OrderEntryControllor {
     @RequestMapping("/test")
     @ResponseBody
     public String test(){
-        return "test123456789";
+        return "test修改";
     }
 }
